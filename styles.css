@@ -25,3 +25,11 @@ h1 {
 .btn-primary:hover {
   color: white;
 }
+
+img {
+  max-width: 100%;
+}
+
+#etsy-cards {
+  justify-content: space-around;
+}
